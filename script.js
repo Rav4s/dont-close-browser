@@ -1,0 +1,1 @@
+window.onbeforeunload = function() { return "You won't see this :P"; }
